@@ -1,4 +1,5 @@
-# Deploy-jenkins-on-azurevm
+# Deploy-jenkins-on-azurevm 🚀
+   This project mention step by step process to deploy jenkins on Azure virtual machine.
 
 ## Configure Azure VM
 1. Go to Azure Console

@@ -30,3 +30,9 @@
 4. Check for the running processes related to jenkins:
     ```
     ps -ef | grep jenkins
+
+## Output 
+
+   ![Screenshot (98)](https://github.com/user-attachments/assets/182028b3-f9e1-46cc-a3b0-44cceb06719c)
+
+    
